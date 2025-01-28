@@ -49,6 +49,6 @@ Choosing the right college and career path is a critical decision for students a
 
 ## 🗪 Team Members
 - **Aarya Tejaswini J :** https://github.com/Aarya-Tejaswini
-- **Malavika M :**
+- **Malavika M :** https://github.com/malavika58
 - **Amrah K S :**
 - **A C Govardhan**
